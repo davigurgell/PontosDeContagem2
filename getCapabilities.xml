@@ -134,6 +134,11 @@
 				<Title>pontoscontagem</Title>
 				<Operation type="csv">1</Operation>
 			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:pontosdecontagem2</Name>
+				<Title>pontosdecontagem2</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
 		</VendorSpecificCapabilities>
 		<UserDefinedSymbolization SupportSLD="1" UserLayer="1" UserStyle="1" RemoteWFS="1"></UserDefinedSymbolization>
 		<Layer>
